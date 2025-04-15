@@ -1,4 +1,4 @@
-# https://github.com/adamtanguf/lab10-AT-AT/edit/main/test_calculator.py
+# https://github.com/adamtanguf/lab10-AT-AT
 # Partner 1: Adam Tang
 # Partner 2: Adam Tang (solo)
 import math
